@@ -1,0 +1,44 @@
+Node.js
+================================
+
+It is an open source server environment.
+It is free.
+It runs on various platforms(Windows, Linux, Unix, Mac OS, etc).
+
+Why Node.js
+===============================
+
+Node.js uses asyncronous programming.
+
+### Asyncronous Programming:- 
+    It is a way for a computer program to handle multiple tasks simultaneously rather than executing them one after the other.
+
+
+What can Node.js do?
+===============================
+
+Node.js can generate dynamic page content.
+Node.js can create, open, read, write, delete, and close files on the server.
+Node.js can add, delete, modify data in our database.
+
+How Node.js handles a file request?
+===================================
+
+It sends the task to the computer's file system.
+Ready to handle the next request.
+When file system has opened and read the file, the server returns the content to the client.
+
+
+###Note###
+==========
+
+Node.js eliminates the waiting, and simply continues with the next request.
+Node.js runs single-threaded, non-blocking, asyncronous programming, which is very memory efficient.
+
+What is Node.js File?
+==================================
+
+Node.js files contain tasks that will be executed on certain events.
+A typical event is someone trying to access a port on the server.
+Node.js files must be initiated on the server before having any effect.
+Node.js files have extension ".js".
